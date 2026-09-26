@@ -6,6 +6,9 @@ The project combines **data analysis, SQL querying, Python-based data exploratio
 
 ---
 
+<p align = "center">
+ <image src = https://github.com/KANISHSINGH12/CUSTOMER_SUPPORT_QUALITY_ANALYSIS/blob/main/IMAGE/Screenshot%202026-09-26%20130735.png "widh="100%" alt = "RETAIL">
+
 https://github.com/KANISHSINGH12/CUSTOMER_SUPPORT_QUALITY_ANALYSIS/blob/main/IMAGE/Screenshot%202026-09-26%20130735.png
 
 ## 🚀 Project Overview

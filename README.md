@@ -6,6 +6,8 @@ The project combines **data analysis, SQL querying, Python-based data exploratio
 
 ---
 
+https://github.com/KANISHSINGH12/CUSTOMER_SUPPORT_QUALITY_ANALYSIS/blob/main/IMAGE/Screenshot%202026-09-26%20130735.png
+
 ## 🚀 Project Overview
 
 Customer support teams handle a large number of customer tickets every day. Analyzing these tickets helps organizations understand:

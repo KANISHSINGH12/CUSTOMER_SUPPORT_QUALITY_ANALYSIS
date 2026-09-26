@@ -335,3 +335,5 @@ Feel free to ⭐ star the repository and explore the analysis.
 ### 📚 Project Category
 
 **Data Analytics | Customer Support Analytics | Python | SQL | Power BI | Business Intelligence**
+
+VIDEO LINK : https://drive.google.com/file/d/1CXaZtk8sOI9UAgvvIYpd9c_bFREYt106/view?usp=drive_link
